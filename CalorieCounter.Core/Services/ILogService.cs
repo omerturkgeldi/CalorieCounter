@@ -1,5 +1,5 @@
 ﻿using CalorieCounter.Core.DTOs;
-using CalorieCounter.Data.Models;
+using CalorieCounter.Core.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;

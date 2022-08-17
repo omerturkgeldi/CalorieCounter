@@ -1,0 +1,16 @@
+2022-08-17 22:33:02.8266 Info Auto loading assembly file: C:\Users\omert\source\repos\CalorieCounter\CalorieCounter.API\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+2022-08-17 22:33:02.8431 Info Loading assembly file: C:\Users\omert\source\repos\CalorieCounter\CalorieCounter.API\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+2022-08-17 22:33:03.1765 Info NLog.Extensions.Logging, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 1.3.0.804. Product version: 1.3.0. GlobalAssemblyCache: False
+2022-08-17 22:33:03.1765 Info Auto loading assembly file: C:\Users\omert\source\repos\CalorieCounter\CalorieCounter.API\bin\Debug\net6.0\NLog.Extensions.Logging.dll succeeded!
+2022-08-17 22:33:03.1765 Info Auto loading assembly file: C:\Users\omert\source\repos\CalorieCounter\CalorieCounter.API\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+2022-08-17 22:33:03.1765 Info Loading assembly file: C:\Users\omert\source\repos\CalorieCounter\CalorieCounter.API\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+2022-08-17 22:33:03.2936 Info NLog.Web.AspNetCore, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.1.968. Product version: 4.7.1. GlobalAssemblyCache: False
+2022-08-17 22:33:03.2936 Info Auto loading assembly file: C:\Users\omert\source\repos\CalorieCounter\CalorieCounter.API\bin\Debug\net6.0\NLog.Web.AspNetCore.dll succeeded!
+2022-08-17 22:33:03.2936 Info Message Template Auto Format enabled
+2022-08-17 22:33:03.3099 Info Loading assembly: NLog.Web.AspNetCore
+2022-08-17 22:33:03.4190 Info Adding target FileTarget(Name=allfile)
+2022-08-17 22:33:03.4190 Info Adding target FileTarget(Name=ownFile-web)
+2022-08-17 22:33:03.4609 Info Adding target DatabaseTarget(Name=database)
+2022-08-17 22:33:03.5414 Info Validating config: TargetNames=allfile, ownFile-web, database, ConfigItems=77, FilePath=C:\Users\omert\source\repos\CalorieCounter\CalorieCounter.API\bin\Debug\net6.0\NLog.config
+2022-08-17 22:33:03.6171 Info Configuration initialized.
+2022-08-17 22:33:03.6317 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.13.493. Product version: 4.7.13+940d2450ffd50cdf121ad1da5858e607f32e9105. GlobalAssemblyCache: False

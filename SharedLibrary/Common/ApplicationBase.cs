@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace PanelV3.SharedLibrary.Common
+namespace SharedLibrary.Common
 {
     public class ApplicationBase
     {

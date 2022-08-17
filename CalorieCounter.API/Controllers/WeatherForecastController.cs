@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using SharedLibrary.Common;
 
 namespace CalorieCounter.API.Controllers
 {
@@ -21,6 +22,7 @@ namespace CalorieCounter.API.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<WeatherForecast> Get()
         {
+            StaticLogger.LogInfo(this.GetType(), "Weather Forecast verileri çekildi...");
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),

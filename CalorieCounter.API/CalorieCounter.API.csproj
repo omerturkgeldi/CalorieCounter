@@ -22,4 +22,8 @@
 		<ProjectReference Include="..\CalorieCounter.Caching\CalorieCounter.Caching.csproj" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Helpers\" />
+	</ItemGroup>
+
 </Project>
